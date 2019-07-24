@@ -8,7 +8,7 @@
 
 Склонировать репозиторий
 
-    git clone git@github.com:itrevolution-perm/json-server-distances.git
+    git clone https://github.com/itrevolution-perm/json-server-distances.git
 
 Установить зависимости
 
